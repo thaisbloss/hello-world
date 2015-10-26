@@ -1,5 +1,5 @@
 # hello-world
 
-Thais
+Intro
 
-Hi My name is Thais and I am really enjoying to learn coding. 
+My name is Thais and I am really enjoying to learn coding. 
